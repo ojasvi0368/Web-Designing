@@ -1,17 +1,17 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #717173;
+  background-color: #b8b8be;
   margin: 20px;
   text-align: center;
 }
 
 
 .product-card {
-  background-color: rgb(245, 245, 253);
+  background-color: rgb(186, 186, 195);
   width: 350px;
   margin: auto;
   padding: 20px;
-  border: 2px solid #6a6767;
+  border: 2px solid #0a0808;
   border-radius: 10px;
 }
 
@@ -39,7 +39,7 @@ body {
 
 
 .product-price {
-  color: #bf4234;
+  color: #651006;
   font-size: 22px;
   font-weight: bold;
   margin: 15px 0;
@@ -47,8 +47,8 @@ body {
 
 
 .btn {
-  background-color: #5490b8;
-  color: rgb(56, 72, 186);
+  background-color: #1d6da2;
+  color: rgb(191, 192, 200);
   border: none;
   padding: 12px 20px;
   margin: 5px;
@@ -58,7 +58,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #1f6b9e;
+  background-color: #115b8c;
 }
 
 .buy {

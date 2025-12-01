@@ -1,0 +1,10 @@
+.container { 
+  display: flex;  
+}
+.box {
+       width: 60px;   
+       height: 60px;  
+        background-color: tomato;   
+        color: white;   
+        text-align: center;  
+    }

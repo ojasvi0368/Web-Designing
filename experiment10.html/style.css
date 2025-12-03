@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #d9a4a4;
+    background-color: #a29a9a;
     color: rgb(47, 88, 193);
     padding: 15px 20px;
 }
@@ -32,7 +32,7 @@ body{
 }
 .actions a{
     margin-left: 15px;
-    color: #9f3232;
+    color: #5a0101;
     text-decoration: none;
     font-weight: bold;
 }
